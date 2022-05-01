@@ -1,6 +1,7 @@
 # mytodoapp
 
-A new Flutter project.
+FlutterのToDoアプリ
+https://www.flutter-study.dev/todo-app/about-todo-app
 
 ## Getting Started
 
