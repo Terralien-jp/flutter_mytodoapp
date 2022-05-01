@@ -3,6 +3,8 @@
 FlutterのToDoアプリ
 https://www.flutter-study.dev/todo-app/about-todo-app
 
+リスト一覧画面作成
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
